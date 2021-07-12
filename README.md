@@ -11,5 +11,5 @@ First metric is "pi" - or the average percentage of positions that are different
 Second metric is average positions different per 100nt of total length.
 Gaps (aka indels) are treated as differences, just the same as substitutions.
 
-<b>ATassignment.py</b<>
+<b>ATassignment.py</b>
 Parses an input aligned multifasta and returns only nonredundant sequences with numbered "allelic type" assignments.
